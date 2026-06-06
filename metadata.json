@@ -1,0 +1,6 @@
+{
+  "name": "Video Cover",
+  "description": "An application to add or replace cover images (thumbnails) to MP4 video files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
